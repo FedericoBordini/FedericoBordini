@@ -1,4 +1,9 @@
 ### Hi, I´m Federico 👋👨‍💻
+
+<a href="https://twitter.com/sonikboom13">
+  <img align="right" alt="Federico Bordini | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
 ![me](https://user-images.githubusercontent.com/21134315/138626655-bb20162a-ea6c-43b8-851f-ff147b6dedab.png)
 
 ```JS
