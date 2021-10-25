@@ -7,6 +7,13 @@ const fede = {
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Styled-Components],
   }
+ ``` 
+You can find me 🌎:
+- [Linkedin](https://linkedin.com/in/federico-bordini/)
+- [Twitter](https://twitter.com/sonikboom13)
+- [Instagram](https://www.instagram.com/fede_bordini)
+- [Facebook](https://www.facebook.com/federico.bordini.3)
+
 <!--
 **FedericoBordini/FedericoBordini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
