@@ -14,6 +14,8 @@ You can find me 🌎:
 - [Instagram](https://www.instagram.com/fede_bordini)
 - [Facebook](https://www.facebook.com/federico.bordini.3)
 
+[![FedericoBordini's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoBordini)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FedericoBordini/FedericoBordini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
