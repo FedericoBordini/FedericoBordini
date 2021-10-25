@@ -1,8 +1,7 @@
-### Hi, I´m Federico 👋👨‍💻
+<h1 align="center">Hi 👋, I'm Federico Bordini</h1>
 
 ![me](https://user-images.githubusercontent.com/21134315/138626655-bb20162a-ea6c-43b8-851f-ff147b6dedab.png)
 
-<h1 align="center">Hi 👋, I'm Federico Bordini</h1>
 <h3 align="center">A passionate frontend developer from Bariloche, Argentina</h3>
 
 - 🌱 I’m currently learning **React**
