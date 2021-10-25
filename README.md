@@ -2,7 +2,7 @@
 ![me](https://user-images.githubusercontent.com/21134315/138626655-bb20162a-ea6c-43b8-851f-ff147b6dedab.png)
 
 ```JS
-const fede = {
+const Fede = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Styled-Components],
