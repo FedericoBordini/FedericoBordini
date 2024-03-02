@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
-- 📫 How to reach me **federicobordini13@gmail.com**
+- 📫 How to reach me **federicobordini.info@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
